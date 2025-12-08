@@ -1,0 +1,47 @@
+weeks:
+  - week_number: 0
+    days:
+      - day: "Thursday"
+        date: "10.20"
+        events:
+          - text: "Review Syllabus"
+          - text: "Course Overview"
+          - text: "Play, Assign and Begin Spielebuch Games"
+          - text: "Example"
+            link: "https://example.com"
+        due:
+          - text: "READ: David Graeber. “What's the Point If We Can't Have Fun?”"
+          - text: "READ: Katie Salen and Eric Zimmerman. “Play as Curriculum” from The Game Design Reader"
+
+  - week_number: 1
+    days:
+      - day: "TUESDAY"
+        date: "10.20"
+        events:
+          - text: "Play Spielebuch Games"
+          - text: "Example"
+            link: "https://example.com"
+        due:
+          - text: "PROJECT: Spielebuch Game"
+          - text: "READ: Mattie Brice. “Homo Ludens for the People”"
+          - text: "READ: Roger Caillois. “The Definition of Play and The Classification of Games”"
+          
+          - text: "Optional: Brain Sutton-Smith. “Play and Ambiguity”"
+      - day: "THURSDAY"
+        date: "10.22"
+        events:
+          - text: "Hello"
+            link: "https://example.com"
+  
+  - week_number: 2
+    days:
+      - day: "TUESDAY"
+        date: "10.27"
+        events:
+          - text: "Hello"
+            link: "https://example.com"
+      - day: "THURSDAY"
+        date: "10.26"
+        events:
+          - text: "Hello"
+            link: "https://example.com"
