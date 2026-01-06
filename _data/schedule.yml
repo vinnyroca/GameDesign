@@ -1,47 +1,165 @@
 weeks:
-  - week_number: 0
-    days:
-      - day: "Thursday"
-        date: "10.20"
-        events:
-          - text: "Review Syllabus"
-          - text: "Course Overview"
-          - text: "Play, Assign and Begin Spielebuch Games"
-          - text: "Example"
-            link: "https://example.com"
-        due:
-          - text: "READ: David Graeber. “What's the Point If We Can't Have Fun?”"
-          - text: "READ: Katie Salen and Eric Zimmerman. “Play as Curriculum” from The Game Design Reader"
-
   - week_number: 1
     days:
-      - day: "TUESDAY"
+      
+      - day: "Tuesday"
         date: "10.20"
+       
+        events:
+          - text: "Course Overview"
+          - text: "Lecture: Play"
+          - text: "Play, Assign and Begin Spielebuch Games"
+       
+        due:
+          - text: "READ: David Graeber. What's the Point If We Can't Have Fun?"
+            link: "example.com"
+          - text: "READ:  Salen and  Zimmerman. Ch. 22: Defining Play from Rules of Play"
+          - text: "READ:  Huizinga. Nature and Significance of Play as a Cultural Phenomenon from The Game Design Reader"
+          - text: "OPTIONAL: Sutton-Smith. Play and Ambiguity from The Game Design Reader"
+      
+      - day: "Thursday"
+        date: "10.21"
+        
         events:
           - text: "Play Spielebuch Games"
-          - text: "Example"
-            link: "https://example.com"
+          - text: "Lecture: Play Design"
+          - text: "Assign: Redesign"
+        
         due:
-          - text: "PROJECT: Spielebuch Game"
-          - text: "READ: Mattie Brice. “Homo Ludens for the People”"
-          - text: "READ: Roger Caillois. “The Definition of Play and The Classification of Games”"
-          
-          - text: "Optional: Brain Sutton-Smith. “Play and Ambiguity”"
-      - day: "THURSDAY"
-        date: "10.22"
-        events:
-          - text: "Hello"
-            link: "https://example.com"
-  
+          - text: "PROJECT: Spielebuch"
+          - text: "READ: De Koven. Excerpts from The Well-Played Game"
+            link: "example.com"
+          - text: "READ: Salen and Zimmerman. Ch. 25: “Games as the Play of Meaning” from Rules of Play"
+          - text: "READ: Macklin and Sharp. Ch. 1: Games Design and Play from Games, Design and Play"
+ 
   - week_number: 2
     days:
+      
       - day: "TUESDAY"
         date: "10.27"
+
         events:
-          - text: "Hello"
-            link: "https://example.com"
+          - text: "Lecture: Games and History"
+          - text: "Play: Racing Games"
+          - text: "Assign: Racing Game"
+  
+        due:
+          - text: "PROJECT: Redesign"
+          - text: "READ: Salen and Zimmerman. Ch. 7: Defining Games from Rules of Play"
+          - text: "READ: Salen and Zimmerman. Ch. 12: Rules on Three Levels from Rules of Play"
+    
+          
+      
       - day: "THURSDAY"
-        date: "10.26"
+        date: "10.29"
+        
         events:
-          - text: "Hello"
-            link: "https://example.com"
+          - text: "Lecture: Game Design and Systems"
+          - text: "Exercise: Racing Game System"
+        
+        due:
+          - text: "PROJECT: Heat Analysis"
+          - text: "READ: Salen and Zimmerman. Ch. 15: Games as Systems of Uncertainty from Rules of Play"
+          - text: "READ: Salen and Zimmerman. Ch. 18: Games as Cybernetic Systems from Rules of Play"
+         
+  - week_number: 3
+    days:
+     
+      - day: "TUESDAY"
+        date: "2.3"
+        
+        events:
+          - text: "Play: Backgammon"
+          - text: "Discuss: Racing Game Proposals"
+        
+        due:
+          - text: "PROJECT: Racing Game Proposal"
+          - text: "READ: Macklin and Sharp. Ch. 5: The Iterative Game Design Process from Games, Design and Play"
+          - text: "READ: Macklin and Sharp. Ch. 7: Game Design Documentation from Games, Design and Play"
+          - text: "READ: Macklin and Sharp. Ch. 9: Conceptualizing Your Game from Games, Design and Play"
+     
+      - day: "THURSDAY"
+        date: "2.5"
+       
+        events:
+          - text: "Exercise: Paper Prototyping"
+          - text: "Visit: Scripps College Fab Lab and Maker Space"
+
+        due:
+          - text: "COMPLETE: Scripps College Fab Lab Safety Quiz"
+            link: "https://docs.google.com/forms/d/e/1FAIpQLSfgE9ht_OvAo0DU9YPzdqEr0uWdMOYT8zpXbZtv8OajYHL8FA/viewform"
+          - text: "COMPLETE: Maker Space General Safety Certification"
+            link: "https://make.hmc.edu/certifications"
+          - text: "READ: Macklin and Sharp. Ch. 10: Prototyping Your Game from Games, Design and Play"
+          - text: "READ: Holcomb. Ch. 6: Writing Effective Rules from The White Box Essays"
+            link: "example.com"
+
+  - week_number: 4
+    days:
+     
+      - day: "TUESDAY"
+        date: "2.10"
+        
+        events:
+          - text: "Play: Game Prototypes"
+          - text: "Discuss: Playtesting"
+        
+        due:
+          - text: "PROJECT: Racing Game Prototype"
+          - text: "READ: Macklin and Sharp. Ch. 11: Playtesting Your Game from Games, Design and Play"
+          - text: "READ: Macklin and Sharp. Ch. 12: Evaluating Your Game from Games, Design and Play"
+     
+      - day: "THURSDAY"
+        date: "2.12"
+       
+        events:
+          - text: "Exercise: Material Development"
+      
+        due:
+        - text: "PROJECT: Continue work on Racing Game"
+
+  - week_number: 5
+    days:
+     
+      - day: "TUESDAY"
+        date: "2.17"
+        
+        events:
+          - text: "Discuss: Game Progress, Game Materials"
+        
+        due:
+          - text: "PROJECT: Continue work on Racing Game"
+     
+      - day: "THURSDAY"
+        date: "2.19"
+       
+        events:
+          - text: "Visit: Fab Lab for Laser Cutting and Printing"
+      
+        due:
+        - text: "PROJECT: Laser Cutting and Print Files Due"
+
+  - week_number: 6
+    days:
+     
+      - day: "TUESDAY"
+        date: "2.24"
+        
+        events:
+          - text: "Play: Racing Game Group One"
+        
+        due:
+          - text: "PROJECT: Racing Game Group One"
+     
+      - day: "THURSDAY"
+        date: "2.26"
+       
+        events:
+          - text: "Play: Racing Game Group Two"
+      
+        due:
+        - text: "PROJECT: Racing Game Group Two"
+
+
+  
+  
