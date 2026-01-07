@@ -46,6 +46,12 @@ h2{
     border-bottom: 1px solid #d400ff  !important;
 }
 
+summary{
+    font-size: $base-font-size * 1.2 !important;
+    border-bottom: 1px solid #d400ff  !important;
+}
+
+
 h3{
     font-size: $base-font-size * 1.1 !important;
     text-decoration: dotted underline !important;
@@ -143,4 +149,11 @@ h2.weekname{
     flex-direction: column;
     gap: $base-font-size * 1.1 !important;
 }
+
+.weekday{
+    display: flex;
+    flex-direction: column;
+    width: 90% !important;
+}
+
 }
