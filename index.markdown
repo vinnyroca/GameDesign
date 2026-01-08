@@ -11,8 +11,8 @@ title: Syllabus
 ## Course Information
 
 
-**Course Title:** Game Design <br> **Semester:** Spring 2026 <br> **Location:** [The Hive](https://colleges.claremont.edu/thehive/), Studio 2 <br> 
-**Meeting Times:** Tuesday & Thurday 1:15 - 3:35
+**Course Title:** Game Design <br> **Semester:** Spring 2026 <br> **Location:** [The Hive](https://colleges.claremont.edu/thehive/), Studio 02 <br> 
+**Meeting Times:** Tuesday & Thurday 1:15 - 3:45
 <br>
 **Weekly In-class Study Time:** 5 Hours
 <br>
