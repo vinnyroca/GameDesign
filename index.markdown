@@ -21,7 +21,7 @@ title: Syllabus
 
 **Instructor:** <br> Vinny Roca, Scripps College <br> [vroca@scrippscollege.edu](mailto:vroca@scrippscollege.edu)
 
-**Office Hours:** <br> By appointment on Tuesday & Thursday 10:00 - 11:00 <br> Book office hours <a href="">here</a>
+**Office Hours:** <br> By appointment on Tuesday & Thursday 10:00 - 11:00 <br> [Book office hours](https://outlook.office.com/bookwithme/user/14e2aa0a493c4a659e608aab96b46635@scrippscollege.edu/meetingtype/Zi6wZ9GygkG8E-6bkbEugg2?bookingcode=c4671ac6-5dad-4b53-832c-a0e3282e73e5&anonymous&ismsaljsauthenabled&ep=mlink)
 
 ## Course Description
 
@@ -55,10 +55,9 @@ The following three core texts will be used throughout the course:
 
 - [*Games, Design and Play*](https://ccl.on.worldcat.org/oclc/950572154)
 
-Additional course readings will be used to supplement these main texts. All additional texts will be provided as PDFs accessible through the course Schedule page.
+Additional course readings will be used to supplement these main texts. All additional texts will be provided as PDFs accessible through the course schedule page.
 
-## In-class and External Play Sessions
-For multiple class sessions, the class, either in small groups or as a whole, will play games. To make these play sessions run smoothly, students should review the rules for the game in advance of the class.
+## External Play Sessions
 
 Throughout the course, students will be assigned group play sessions. Games for play sessions will be available in the Hive storage space. Signup sheets will be provided for each play session. Students are expected to spend a minimum of 2 hours playing each assigned game.
 
@@ -67,20 +66,22 @@ Throughout the course, students will be assigned group play sessions. Games for 
 
 Descriptions, grading criteria, and submission details for each project in the course can be found in the Projects section of the class website.
 
+Summary of course projects:
+
 ### Spielebuch Game
-Taking Carsten Höller’s Spielebuch as inspiration, each student will design a simple game that can be described in a short paragraph. The goal of this assignment is to begin exploring the differences and overlaps between games and the broader category of play. Each game should be designed to be playable within a few minutes in the classroom. Students are encouraged to be open and experimental with their approach. The games should be designed to create joyful or subversive experiences of play. Games should be designed for 2 or 4 players.
+Taking Carsten Höller’s Spielebuch as inspiration, each student will design a simple game that can be described in a short paragraph. The goal of this assignment is to begin exploring the differences and overlaps between games and the broader category of play. Students will submit a thoughtfully designed rule book for their game.
 
 ### Redesign
-In groups of 2, students will redesign Tic-Tac-Toe. Students will add and test new rules, exploring what interesting and emergent play forms. Students will submit a thoughtfully designed rule book for their new game.
+In groups of 2, students will redesign Tic-Tac-Toe. Students will add and test new rules, exploring emergent play structures. Students will submit a thoughtfully designed rule book for their new game.
 
 ### Racing Game
 Each student will design an analog racing game. Games should be designed for four players. Students will utilize available resources at the Harvey Mudd Makerspace, The Hive, and the Scripps Fab Lab to create aesthetically complex game boards, cards, and pieces.
 
 ### Role Playing Game
-In groups of 4, students will design an analog game with particular focus on creating a complex system to develop a role playing narrative. Games should be designed for 4 players. Students will utilize available resources at the Harvey Mudd Makerspace, The Hive, and the Scripps Fab Lab to create aesthetically complex game boards, cards, and pieces.
+In groups of 4, students will design an analog game with particular focus on creating a complex system to develop a gm-less role playing narrative. Games should be designed for 4 players. Students will utilize available resources at the Harvey Mudd Makerspace, The Hive, and the Scripps Fab Lab to create aesthetically complex game boards, cards, and pieces.
 
 ### Art Game
-Each student will design an analog game that either takes a stance on a particular topic or uses game design as a form of artistic expression. For this project, students should pull from their own lived experience and artistic background to design a game on a topic that is personally relevant. For this project, the system and the narrative of the game should be deeply intertwined such that the system produces both emergent play and emergent narrative circumstances. Students should deeply consider which mechanics or systems of mechanics will best communicate their creative intentions. Students will utilize available resources at the Harvey Mudd Makerspace, The Hive, and the Scripps Fab Lab to create aesthetically complex game boards, cards, and pieces. The project will have three phases:
+Each student will design an analog game that either takes a stance on a particular topic or uses game design as a form of artistic expression. For this project, students should pull from their own lived experience and artistic background to design a game on a topic that is personally relevant. For this project, the system and the narrative of the game should be deeply intertwined such that the system produces both emergent play and emergent narrative circumstances. Students should deeply consider which mechanics or systems of mechanics will best communicate their creative intentions. Students will utilize available resources at the Harvey Mudd Makerspace, The Hive, and the Scripps Fab Lab to create aesthetically complex game boards, cards, and pieces.
 
 ## Course Breakdown
 
@@ -115,7 +116,7 @@ Each student will design an analog game that either takes a stance on a particul
 
 Grading Criteria for each project can be found in the Projects section of the class website.
 
-All projects and project components should be turned in before the start of class on their due day. Projects will lose one letter grade for each day they are late. After three days past due date, projects will not be accepted. Unexcused absences during proposal and playtesting sessions will result in students receiving a zero for their proposal or playtest grade. Unexcused absences during critique days will result in a two letter grade reduction in the final project grade.
+All project components should be turned in before the start of class on their due day. Project components will lose one letter grade for each day they are late. Project components received more than three days past due date will not be accepted. Unexcused absences during proposal and playtesting sessions will result in students receiving a zero for their proposal or playtest grade. Unexcused absences during critique days will result in a two letter grade reduction in the final project grade.
 
 ### Participation
 
@@ -123,7 +124,7 @@ Playing, understanding, and designing board games in a collaborative effort. As 
 
 ### Attendance
 
-Students are expected to be prepared for class at the start of our class meeting time. Students are allowed 1free unexcused absence during the semester. Students may not use their one unexcused absence during critique, proposal or playtesting sessions. Additional absences will only be excused for illness, emergencies, or religious observances. Students who arrive to the class after the class meeting time will be marked as tardy. Three tardies will be considered an unexcused absence. Each unexcused absence will decrease the attendance grade by 20%. 5 or more unexcused absences will result in a zero attendance grade. Each unexcused absence beyond 5 will result in a 20% decrease in the student’s participation grade.
+Students are expected to be prepared for class by the start of our class meeting time. Students are allowed one free unexcused absence during the semester. Students may not use their one unexcused absence during critique, proposal or playtesting sessions. Additional absences will only be excused for documented illness, emergencies, or religious observances. Students who arrive to the class after the class meeting time will be marked as tardy. Three tardies will be considered an unexcused absence. Each unexcused absence will decrease the attendance grade by 20%. 5 or more unexcused absences will result in a zero attendance grade. Each unexcused absence beyond 5 will result in a 20% decrease in the student’s participation grade.
 
 
 ## Statement of Inclusion
@@ -142,7 +143,7 @@ The instructor will work individually with each student on reasonable accommodat
 
 If you have questions about accommodations for the course, please do not hesitate to contact me.
 
-Campus Disability Coordinators
+Campus Disability Coordinators:
 
 - [Pomona](http://www.pomona.edu/administration/dean-of-students/disability-accommodations/)
 - [Claremont Graduate University](http://www.cgu.edu/disabilityservices)
