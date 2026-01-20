@@ -21,7 +21,7 @@ title: Syllabus
 
 **Instructor:** <br> Vinny Roca, Scripps College <br> [vroca@scrippscollege.edu](mailto:vroca@scrippscollege.edu)
 
-**Office Hours:** <br> By appointment on Tuesday & Thursday 10:00 - 11:00 <br> [Book office hours](https://outlook.office.com/bookwithme/user/14e2aa0a493c4a659e608aab96b46635@scrippscollege.edu/meetingtype/Zi6wZ9GygkG8E-6bkbEugg2?bookingcode=c4671ac6-5dad-4b53-832c-a0e3282e73e5&anonymous&ismsaljsauthenabled&ep=mlink)
+**Office Hours:** <br> By appointment on Tuesday & Thursday 10:00 - 11:00 <br> [Book office hours](https://outlook.office.com/bookwithme/user/14e2aa0a493c4a659e608aab96b46635@scrippscollege.edu/meetingtype/Zi6wZ9GygkG8E-6bkbEugg2?bookingcode=a35bdb40-8dff-4e87-ac38-52976bab0cc5&anonymous&ismsaljsauthenabled&ep=mlink)
 
 ## Course Description
 
