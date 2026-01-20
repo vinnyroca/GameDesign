@@ -29,7 +29,7 @@ weeks:
           - text: "PROJECT: Spielebuch"
           - text: "READ: De Koven. Excerpts from The Well-Played Game"
             link: "https://scrippscollege.box.com/s/rxkve6yaow3nsh61ixw1xq4u3naavlcv"
-          - text: "READ: Salen and Zimmerman. Ch. 25: Games as the Play of Meaning from Rules of Play"
+          - text: "READ: Salen and Zimmerman. Ch. 7: Defining Games from Rules of Play"
           - text: "READ: Macklin and Sharp. Ch. 1: Games Design and Play from Games, Design and Play"
  
   - week_number: 2
@@ -45,8 +45,9 @@ weeks:
   
         due:
           - text: "PROJECT: Redesign"
-          - text: "READ: Salen and Zimmerman. Ch. 7: Defining Games from Rules of Play"
           - text: "READ: Salen and Zimmerman. Ch. 12: Rules on Three Levels from Rules of Play"
+          - text: "READ: Salen and Zimmerman. Ch. 14: Games as Emergent Systems from Rules of Play"
+          
     
           
       
