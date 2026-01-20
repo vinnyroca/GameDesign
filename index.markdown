@@ -12,7 +12,7 @@ title: Syllabus
 
 
 **Course Title:** Game Design <br> **Semester:** Spring 2026 <br> **Location:** [The Hive](https://colleges.claremont.edu/thehive/), Studio 02 <br> 
-**Meeting Times:** Tuesday & Thurday 1:15 - 3:45
+**Meeting Times:** Tuesday & Thursday 1:15 - 3:45
 <br>
 **Weekly In-class Study Time:** 5 Hours
 <br>
@@ -69,7 +69,7 @@ Descriptions, grading criteria, and submission details for each project in the c
 Summary of course projects:
 
 ### Spielebuch Game
-Taking Carsten Höller’s Spielebuch as inspiration, each student will design a simple game that can be described in a short paragraph. The goal of this assignment is to begin exploring the differences and overlaps between games and the broader category of play. Students will submit a thoughtfully designed rule book for their game.
+Taking Carsten Höller’s Spielebuch as inspiration, each student will design a simple game that can be described in a short paragraph. The goal of this assignment is to begin exploring the differences and overlaps between games and the broader category of play. 
 
 ### Redesign
 In groups of 2, students will redesign Tic-Tac-Toe. Students will add and test new rules, exploring emergent play structures. Students will submit a thoughtfully designed rule book for their new game.
