@@ -8,7 +8,7 @@ permalink: /project/
 
 ---
 
- [1. Speielebuch Game](/book.md) (Final Project Due: 1/22)
+ [1. Spielebuch Game](/book.md) (Final Project Due: 1/22)
 
 ---
 
