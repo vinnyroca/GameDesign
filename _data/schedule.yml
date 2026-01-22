@@ -70,7 +70,6 @@ weeks:
         date: "2/3"
         
         events:
-          - text: "Play: Backgammon"
           - text: "Discuss: Racing Game Proposals"
         
         due:
