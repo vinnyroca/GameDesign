@@ -72,7 +72,7 @@ Summary of course projects:
 Taking Carsten Höller’s Spielebuch as inspiration, each student will design a simple game that can be described in a short paragraph. The goal of this assignment is to begin exploring the differences and overlaps between games and the broader category of play. 
 
 ### Redesign
-In groups of 2, students will redesign Tic-Tac-Toe. Students will add and test new rules, exploring emergent play structures. Students will submit a thoughtfully designed rule book for their new game.
+In groups of 2, students will redesign Tic-Tac-Toe. Students will add and test new rules, exploring emergent play structures. Each student will submit a thoughtfully designed rule book for their new game.
 
 ### Racing Game
 Each student will design an analog racing game. Games should be designed for four players. Students will utilize available resources at the Harvey Mudd Makerspace, The Hive, and the Scripps Fab Lab to create aesthetically complex game boards, cards, and pieces.

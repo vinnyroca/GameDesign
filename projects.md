@@ -12,7 +12,7 @@ permalink: /project/
 
 ---
 
- [2. Redesign Game]() (Final Project Due: 1/27)
+ [2. Redesign Game](/redesign.md) (Final Project Due: 1/27)
 
  ---
 
