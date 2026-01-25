@@ -59,7 +59,7 @@ weeks:
           - text: "Exercise: Racing Game System"
         
         due:
-          - text: "PROJECT: Heat Analysis"
+          - text: "PROJECT: Heat Analysis by 1/30 at 11:59 PM"
           - text: "READ: Salen and Zimmerman. Ch. 15: Games as Systems of Uncertainty from Rules of Play"
           - text: "READ: Salen and Zimmerman. Ch. 18: Games as Cybernetic Systems from Rules of Play"
          
@@ -186,7 +186,7 @@ weeks:
           - text: "Exercise: RPG System Design"
       
         due:
-        - text: "PROJECT: Escape the Dark Sector Analysis"
+        - text: "PROJECT: Escape the Dark Sector Analysis by 3/6 at 11:59 PM"
   
   - week_number: 8
     days:

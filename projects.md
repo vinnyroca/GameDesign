@@ -17,7 +17,7 @@ permalink: /project/
  ---
 
 
- [3. Racing Game]() (Heat Analysis Due: 1/29, Proposal Due: 2/3, Prototype Due: 2/10, Final Game Due: 2/24)
+ [3. Racing Game]() (Heat Analysis Due: 1/30, Proposal Due: 2/3, Prototype Due: 2/10, Final Game Due: 2/24)
 
 ---
 
