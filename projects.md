@@ -21,7 +21,7 @@ permalink: /project/
 
 ---
 
- [4. Role Playing Game]() (Escape the Dark Sector Analysis Due: 3/5, Prototype Due: 3/10, Final Project Due: 4/2)
+ [4. Role Playing Game]() (Escape the Dark Analysis Due: 3/6, Prototype Due: 3/10, Final Project Due: 4/2)
  
  ---
 
