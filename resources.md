@@ -38,7 +38,7 @@ The Scripps Fab Lab requires a safety [quiz](https://docs.google.com/forms/d/e/1
 
 ### Trotec Speedy 300 Laser Cutter (cutting size 27” by 17”)
 
-The laser cutter can be used to cut, engrave and mark a variety of materials. A list of materials that can be engraved and cut can be found below. Adobe Illustrator files must be prepared and materials for the laser cutter must be purchased in advance of class laser cutting sessions. Since class funds will be used to purchase materials for the laser cutter, students must let the instructor know of which materials they plan to use during the project proposal phase. Class time will be dedicated to using the laser cutter for creating game pieces.
+The laser cutter can be used to cut, engrave and mark a variety of materials. A list of materials that can be engraved and cut can be found below. Adobe Illustrator files must be prepared and materials for the laser cutter must be purchased in advance of class laser cutting sessions. Since class funds will be used to purchase materials for the laser cutter, students must let the instructor know of which materials they plan to use during the project proposal phase. Class time will be dedicated to using the laser cutter for creating game pieces. Class funds and time will be restricted to purchasing and lasering 3mm ply wood that can be cut and painted.
 
 The laser cutter can engrave and cut the following materials:
 
