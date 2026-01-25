@@ -41,7 +41,7 @@ weeks:
         events:
           - text: "Lecture: Games and History"
           - text: "Play: Racing Games"
-          - text: "Assign: Racing Game"
+          
   
         due:
           - text: "PROJECT: Redesign"
@@ -57,9 +57,11 @@ weeks:
         events:
           - text: "Lecture: Game Design and Systems"
           - text: "Exercise: Racing Game System"
+          - text: "Assign: Racing Game"
         
         due:
           - text: "PROJECT: Heat Analysis by 1/30 at 11:59 PM"
+          - text: "READ: Racing Game Project Description"
           - text: "READ: Salen and Zimmerman. Ch. 15: Games as Systems of Uncertainty from Rules of Play"
           - text: "READ: Salen and Zimmerman. Ch. 18: Games as Cybernetic Systems from Rules of Play"
          
