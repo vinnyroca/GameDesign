@@ -64,6 +64,10 @@ weeks:
           - text: "READ: Racing Game Project Description"
           - text: "READ: Salen and Zimmerman. Ch. 15: Games as Systems of Uncertainty from Rules of Play"
           - text: "READ: Salen and Zimmerman. Ch. 18: Games as Cybernetic Systems from Rules of Play"
+          - text: "COMPLETE: Scripps College Fab Lab Safety Quiz"
+            link: "https://docs.google.com/forms/d/e/1FAIpQLSfgE9ht_OvAo0DU9YPzdqEr0uWdMOYT8zpXbZtv8OajYHL8FA/viewform"
+          - text: "COMPLETE: Maker Space General Safety Certification"
+            link: "https://make.hmc.edu/certifications"
          
   - week_number: 3
     days:
@@ -88,10 +92,6 @@ weeks:
           - text: "Visit: Scripps College Fab Lab and Maker Space"
 
         due:
-          - text: "COMPLETE: Scripps College Fab Lab Safety Quiz"
-            link: "https://docs.google.com/forms/d/e/1FAIpQLSfgE9ht_OvAo0DU9YPzdqEr0uWdMOYT8zpXbZtv8OajYHL8FA/viewform"
-          - text: "COMPLETE: Maker Space General Safety Certification"
-            link: "https://make.hmc.edu/certifications"
           - text: "READ: Macklin and Sharp. Ch. 10: Prototyping Your Game from Games, Design and Play"
           - text: "READ: Holcomb. Ch. 6: Writing Effective Rules from The White Box Essays"
             link: "https://scrippscollege.box.com/s/ws1uxzaj58dtkcxtgfbn60vjf79d2u6j"
