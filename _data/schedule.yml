@@ -128,16 +128,16 @@ weeks:
           - text: "Discuss: Game Progress, Game Materials"
         
         due:
-          - text: "PROJECT: Continue work on Racing Game"
+          - text: "PROJECT (Optional): Laser Cutting Files Due"
      
       - day: "THURSDAY"
         date: "2/19"
        
         events:
-          - text: "Visit: Fab Lab for Laser Cutting and Printing"
+          - text: "Visit: Fab Lab for Laser Cutting (Meet at Scripps in Lang 221A)"
       
         due:
-        - text: "PROJECT: Laser Cutting and Print Files Due"
+        - text: "PROJECT: Continue work on Racing Game"
 
   - week_number: 6
     days:
@@ -232,7 +232,7 @@ weeks:
         date: "3/24"
         
         events:
-          - text: "Discuss: RPG check-in"
+        - text: "Discuss: RPG check-in"
         due:
         - text: "PROJECT: Continue work on RPG Game"
 
@@ -241,10 +241,10 @@ weeks:
         date: "3/26"
        
         events:
-          - text: "Visit: Fab Lab for Laser Cutting and Printing"
+          - text: "Visit: Fab Lab for Printing (Meet at Scripps in Lang 221A)"
       
         due:
-        - text: "PROJECT: Laser Cutting and Print Files Due"
+        - text: "PROJECT: Card Print Files Due"
  
   - week_number: 11
     days:
