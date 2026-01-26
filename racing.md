@@ -7,7 +7,7 @@ permalink: /racing/
 
 # Racing Game
 
-For this project, you will create a racing board game. The goal of this project is to learn how to balance, randomness, player movement, and strategy to create a sufficiently complex game system to allow for emergent player behavior.
+For this project, you will create a racing board game. The goal of this project is to learn how to balance randomness, player movement, and strategy to create a sufficiently complex game system to allow for emergent player behavior.
 
 ## Game Mechanics:
 
@@ -69,7 +69,7 @@ In 500-700 words, discuss the differences between Candy Land and Heat: Pedal to 
 response should focus on the games’ meaningful choices, emergence, feedback, and handling of
 chance/probability. Please include your first name and last name in your file.
 
-**Rubic:**
+**Rubric:**
 
 **2-2.5:** The student clearly articulated the differences and similarities between the games using knowledge gained from readings and class.
 
@@ -99,7 +99,7 @@ Once you have a solid concept in mind, create a project proposal for your racing
 
 Project proposals will be discussed in class amongst peers and during 5-minute meetings with the instructor.
 
-**Rubic:**
+**Rubric:**
 
 **2-2.5:** The student answered all questions and clearly articulated the design intentions of their project.
 
