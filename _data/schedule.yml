@@ -118,6 +118,7 @@ weeks:
        
         events:
           - text: "Exercise: Material Development"
+          - text: "Bring your laptop with Adobe Illustrator already installed"
       
         due:
         - text: "PROJECT: Continue work on Racing Game"
