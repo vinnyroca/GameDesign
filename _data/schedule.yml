@@ -89,7 +89,7 @@ weeks:
         date: "2/5"
        
         events:
-          - text: "Meet At: Harvey Mudd College Makerspace"
+          - text: "Meet At: Scripps Lang Hall 221A: Fab Lab"
           - text: "Exercise: Paper Prototyping"
           - text: "Visit: Scripps College Fab Lab and Makerspace"
 
@@ -281,7 +281,7 @@ weeks:
         events:
           - text: "Lecture: Art and Games"
           - text: "Assign: Art Game"
-          - text: "Exercise: Art Games"
+
         due:
         - text: "READ: Flanagan. Ch.3 Board Games from Critical Play"
           link: "https://scrippscollege.box.com/s/q8bk3jbkmvm5mhk9h2wk4q992ifm3lmu"
@@ -294,7 +294,6 @@ weeks:
        
         events:
           - text: "Discuss: Art Game Proposals"
-          - text: "Exercise: Paper Prototype"
       
         due:
         - text: "PROJECT: Art Game Proposal"
