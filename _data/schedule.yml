@@ -77,6 +77,7 @@ weeks:
         
         events:
           - text: "Discuss: Racing Game Proposals"
+          - text: "Play: Game Mechanics Games"
         
         due:
           - text: "PROJECT: Racing Game Proposal"
@@ -88,8 +89,9 @@ weeks:
         date: "2/5"
        
         events:
+          - text: "Meet At: Harvey Mudd College Makerspace"
           - text: "Exercise: Paper Prototyping"
-          - text: "Visit: Scripps College Fab Lab and Maker Space"
+          - text: "Visit: Scripps College Fab Lab and Makerspace"
 
         due:
           - text: "READ: Macklin and Sharp. Ch. 10: Prototyping Your Game from Games, Design and Play"
