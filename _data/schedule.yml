@@ -173,25 +173,27 @@ weeks:
         
         events:
           - text: "Lecture: History of Role Playing Games"
-          - text: "Play: Lasers & Feelings"
-          - text: "Play: The Ground Itself"
-          - text: "Assign: Role Playing Game"
+          - text: "Play: Escape the Dark Games"
+          - text: "Assign: Role Playing Game Groups"
         
         due:
-          - text: "READ: Salen and Zimmerman. Ch. 26: Games as Narrative Play from Rules of Play"
-          - text: "READ: LeBlanc. Tools for Creating Dramatic Game Dynamics from The Game Design Reader"
-          - text: "READ: Bowman. Bleed: The Spillover Between Player and Character"
+          - text: "READ: Trammell. The Privlege of Play: Avalon Hill's Race Problem"
+            link: "https://scrippscollege.box.com/s/l11fs2n0xa4uzn13cmryz52ycz2jm77q"
+          - text: "OPTIONAL READ: Bowman. Bleed: The Spillover Between Player and Character"
             link: "https://www.nordiclarp.org/2015/03/02/bleed-the-spillover-between-player-and-character/"
      
       - day: "THURSDAY"
         date: "3/5"
        
         events:
-          - text: "Lecture: Role Playing Game Systems"
-          - text: "Exercise: RPG System Design"
+          - text: "Exercise: RPG System Mod"
+          - text: "Assign: Role Playing Game"
       
         due:
-        - text: "PROJECT: Escape the Dark Analysis by 3/6 at 11:59 PM"
+          - text: "READ: Roleplaying Game Project Description"
+          - text: "READ: Salen and Zimmerman. Ch. 26: Games as Narrative Play from Rules of Play"
+          - text: "READ: LeBlanc. Tools for Creating Dramatic Game Dynamics from The Game Design Reader"
+          - text: "PROJECT: Escape the Dark Analysis by 3/6 at 11:59 PM"
   
   - week_number: 8
     days:
@@ -200,10 +202,10 @@ weeks:
         date: "3/10"
         
         events:
-          - text: "Play: RPG Prototypes"
+          - text: "Play: RPG Paper Prototype Due"
         
         due:
-          - text: "PROJECT: RPG Playable Prototype"
+          - text: "PROJECT: RPG Paper Prototype Due"
      
       - day: "THURSDAY"
         date: "3/12"
@@ -237,9 +239,9 @@ weeks:
         date: "3/24"
         
         events:
-        - text: "Discuss: RPG check-in"
+          - text: "Visit: Fab Lab for Printing (Meet at Scripps in Lang 221A)"
         due:
-        - text: "PROJECT: Continue work on RPG Game"
+          - text: "PROJECT: Continue work on RPG Game"
 
      
       - day: "THURSDAY"
@@ -267,7 +269,7 @@ weeks:
         date: "4/2"
        
         events:
-          - text: "Crit: Role Playing Games"
+        - text: "Crit: Role Playing Games"
       
         due:
         - text: "PROJECT: Role Playing Game Due"
