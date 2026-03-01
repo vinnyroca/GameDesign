@@ -238,7 +238,7 @@ weeks:
         date: "3/24"
         
         events:
-          - text: "Visit: Fab Lab for Printing (Meet at Scripps in Lang 221A)"
+          - text: "Discuss: RPG Check-in"
         due:
           - text: "PROJECT: Continue work on RPG Game"
 
@@ -259,19 +259,22 @@ weeks:
         date: "3/31"
         
         events:
-          - text: "Discuss: RPG check-in"
+          - text: "Crit: Role Playing Games"
         due:
-        - text: "PROJECT: Continue work on RPG Game"
+          - text: "PROJECT: Role Playing Game Due"
 
      
       - day: "THURSDAY"
         date: "4/2"
        
         events:
-        - text: "Crit: Role Playing Games"
+        - text: "LARP: Sky Deck"
       
         due:
-        - text: "PROJECT: Role Playing Game Due"
+        - text: "READ: Sky Deck Rules"
+        - link: "https://scrippscollege.box.com/s/lo3il9yuw0xe3cqyuiiuwy95rvti7y2o"
+        - text: Decide if you want to play, and, if so, create a ranked list of the 3 charcaters you would like to play. Playing this game is optional and voluntary. You are encouraged to play if you can.
+        - text: If you want to play, come to class in your best cyberpunk attire! (Optional but encouraged!) Those not playing will be observers.
 
   - week_number: 12
     days:
@@ -280,10 +283,11 @@ weeks:
         date: "4/7"
         
         events:
-          - text: "Lecture: Art and Games"
           - text: "Assign: Art Game"
+          - text: "Visit: Benton Museum"
 
         due:
+        - text: "PROJECT: Read Art Game Project Description"
         - text: "READ: Flanagan. Ch.3 Board Games from Critical Play"
           link: "https://scrippscollege.box.com/s/q8bk3jbkmvm5mhk9h2wk4q992ifm3lmu"
         - text: "READ: Flanagan. Ch.8 Designing for Critical Play from Critical Play"
@@ -306,10 +310,11 @@ weeks:
         date: "4/14"
         
         events:
-          - text: "Play: Art Game Prototypes"
+          - text: "Class Visit: TBD"
+          - text: "(Optional) Play: Art Game Prototypes"
 
         due:
-        - text: "Project: Art Game Prototype"
+        - text: "(Optional) PROJECT: Art Game Prototype"
 
       - day: "THURSDAY"
         date: "4/17"

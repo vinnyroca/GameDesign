@@ -21,11 +21,11 @@ permalink: /project/
 
 ---
 
- [4. Role Playing Game]() (Escape the Dark Analysis Due: 3/6, Prototype Due: 3/10, Final Project Due: 4/2)
+ [4. Role Playing Game](/roleplaying.md) (Escape the Dark Analysis Due: 3/6, Prototype Due: 3/10, Final Project Due: 3/31)
  
  ---
 
- [5. Art Game]() (Proposal Due: 4/8, Prototype Due: 4/14, Final Project Due: 4/28)
+ [5. Art Game]() (Proposal Due: 4/8, (TBD) Prototype Due: 4/14, Final Project Due: 4/28)
  
  ---
 
