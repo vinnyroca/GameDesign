@@ -215,6 +215,11 @@ weeks:
         due:
         - text: "PROJECT: Continue work on RPG Game"
 
+
+
+
+        
+
   - week_number: 9
     days:
      
@@ -238,6 +243,7 @@ weeks:
         date: "3/24"
         
         events:
+          - text: "Visit: Fab Lab for Printing (Meet at Scripps in Lang 221A)"
           - text: "Discuss: RPG Check-in"
         due:
           - text: "PROJECT: Continue work on RPG Game"
@@ -288,6 +294,8 @@ weeks:
 
         due:
         - text: "PROJECT: Read Art Game Project Description"
+        - text: "READ: Gather Quest: 100 Art Games 100 Artists"
+          link: "https://sidequestosp.substack.com/p/gather-quest-100-art-games-100-artists"
         - text: "READ: Flanagan. Ch.3 Board Games from Critical Play"
           link: "https://scrippscollege.box.com/s/q8bk3jbkmvm5mhk9h2wk4q992ifm3lmu"
         - text: "READ: Flanagan. Ch.8 Designing for Critical Play from Critical Play"
@@ -311,10 +319,10 @@ weeks:
         
         events:
           - text: "Class Visit: TBD"
-          - text: "(Optional) Play: Art Game Prototypes"
+          - text: "TBD (Optional) Play: Art Game Prototypes"
 
         due:
-        - text: "(Optional) PROJECT: Art Game Prototype"
+        - text: "TBD (Optional) PROJECT: Art Game Prototype"
 
       - day: "THURSDAY"
         date: "4/17"
