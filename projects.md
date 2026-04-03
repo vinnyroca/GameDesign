@@ -25,7 +25,7 @@ permalink: /project/
  
  ---
 
- [5. Art Game]() (Proposal Due: 4/8, (TBD) Prototype Due: 4/14, Final Project Due: 4/28)
+ [5. Art Game](/artgame.md) (Proposal Presentation Due: 4/9, Rules/Prototype Due: 4/14, Final Project Due: 4/28)
  
  ---
 
