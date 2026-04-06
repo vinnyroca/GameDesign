@@ -318,20 +318,19 @@ weeks:
         date: "4/14"
         
         events:
-          - text: "Class Visit: TBD"
-          - text: "TBD (Optional) Play: Art Game Prototypes"
+          - text: "(Optional) Play: Art Game Prototypes"
 
         due:
-        - text: "TBD (Optional) PROJECT: Art Game Prototype"
+        - text: "PROJECT: Art Game Rules/Prototype"
 
       - day: "THURSDAY"
-        date: "4/17"
+        date: "4/16"
        
         events:
-          - text: "Discuss: Art Game Check-in"
+          - text: "Class Visit"
       
         due:
-        - text: "PROJECT: Continue work on Art Game"
+  
 
   - week_number: 14
     days:
@@ -380,9 +379,9 @@ weeks:
         date: "5/5"
         
         events:
-          - text: "Play: Games"
+          - text: "Documenatation Day at Pitzer Campus, West Hall"
         due:
-          - text: "OPTIONAL: Board Game of Your Choice"
+          - text: "Bring your Art Game to Class"
      
 
 
